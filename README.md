@@ -7,6 +7,7 @@ Im Brandon
   - Graphic designer
   - Networking Engineer
   - Passionate about code 🖥️
+  - Web3 and blockchain
 
 
 <h5>🌱 I’m currently learning Amazon Web Services and React Native</h5>
