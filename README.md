@@ -1,22 +1,23 @@
-### Hi there 👋
+**Full Stack Developer | Web3 Enthusiast | Open Source Advocate | AI Innovator** 🖥️
 
-Im Brandon
+Hi there! 👋 I'm a passionate builder committed to making **Web3**, **open source**, and **AI** more accessible and impactful. My goal is to bridge the gap between complex technologies and everyday users, ensuring that Web3 is intuitive and easy to adopt—not just for the tech-savvy but for everyone.
 
-  - Full Stack Developer
-  - Graphic designer
-  - Networking Engineer
-  - Passionate about code 🖥️
-  - Web3, Open Source and Blockchain
+I believe in the philosophy: _"You can just ship things"_
 
-<h5> 🌱 I’m currently stepping into the Open Source World</h5>
-<h5>🌱 I’m currently learning Cairo and soliditylang</h5>
+## What I’m Working On
+- **Empowering Communities**: Designing solutions for DAOs and DeFi projects that drive meaningful change and empower users.
+- **Innovative Tech**: Combining my experience in modern Web2 development with scalable Web3 apps that integrate the potential of **AI** and decentralization.
+- **Real-World Impact**: Building tools and platforms that matter—fostering innovation, solving real-world problems, and driving change through technology.
 
-<h5>👯 Looking to collaborate on any non-profit project</h5>
+## Let’s Collaborate
+I'm always open to **collaborating on non-profit projects** that aim to create positive social or environmental impact. If you share a similar vision, let's connect!
 
+---
 
-You can find me on [LinkedIn][1], [Instagram][2] or [X][3]🤝🏻 
+## 🌐 Find Me here
+- [LinkedIn](https://www.linkedin.com/in/brandonfdez18)
+- [Instagram](https://www.instagram.com/andrey_fdez/)
+- [X (formerly Twitter)](https://twitter.com/branfdez_18)
+- [OnlyDust](https://app.onlydust.com/u/Bran18)
 
-[1]: https://www.linkedin.com/in/brandonfdez18
-[2]: https://www.instagram.com/andrey_fdez/
-[3]: https://twitter.com/branfdez_18
-
+---
